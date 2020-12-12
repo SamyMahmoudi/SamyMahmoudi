@@ -1,4 +1,4 @@
-<img height="300" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/banniere.jpg?raw=true">
+<img height="200" align="center" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/banniere.jpg?raw=true">
 
 ### Welcome to my profile 👋
 

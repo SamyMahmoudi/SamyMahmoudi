@@ -18,7 +18,7 @@
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/nuxt.png?raw=true">&nbsp;&nbsp;
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/php.png?raw=true">&nbsp;&nbsp;
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/mysql.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/wordpress.png?raw=true">&nbsp;&nbsp;
+<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/WordpressLogo.png?raw=true">&nbsp;&nbsp;
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/adobeXD.png?raw=true">&nbsp;&nbsp;
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/photoshop.png?raw=true">&nbsp;&nbsp;
 </p>

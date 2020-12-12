@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Student at IIM in Paris
+#### 🎓 Bachelor's degree in sciences (speciality IT)
+
 <!--
 **SamyMahmoudi/SamyMahmoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,7 +8,22 @@
 <p align="center">
 
 ## Languages & Tools
+
 <img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/vs.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/github.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/logo-html-5.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/css.jpg?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/sass.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/gulp.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/JavaScript.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/vue.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/nuxt.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/php.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/mysql.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/wordpress.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/adobeXD.png?raw=true">
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/photoshop.png?raw=true">
+
 </p>
 <p align="center">
 

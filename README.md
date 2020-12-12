@@ -1,15 +1,18 @@
+# ![SamyMahmoudi](https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/banniere.jpg)
+
 ### Welcome to my profile 👋
 
 👨‍🎓 Student at IIM in Paris </br>
 🎓 Bachelor's degree in sciences (speciality IT)
 
+<p align="center">
 
 ## Languages & Tools
-
+<img height="24" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/vs.png?raw=true">
+</p>
 <p align="center">
 
 ## Contact
-
 </p>
 
 <!--

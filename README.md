@@ -6,7 +6,7 @@
 
 
 ## Languages & Tools
-<p align="center">
+<p>
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/vs.png?raw=true">&nbsp;&nbsp;
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/github.png?raw=true">&nbsp;&nbsp;
 <img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/html.png?raw=true">&nbsp;&nbsp;
@@ -30,7 +30,8 @@
 </p>
 
 <details>
- <summary><strong>⚡ Bonus :</strong></summary>
+ <summary><strong>Bonus :</strong></summary>
+ </br>
    - ⚽ Sport <br/>
    - 🎧 Music <br/>
    - ✈ Travel <br/>

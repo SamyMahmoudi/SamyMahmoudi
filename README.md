@@ -1,4 +1,4 @@
-# ![SamyMahmoudi](https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/banniere.jpg)
+<img height="300" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/banniere.jpg?raw=true">
 
 ### Welcome to my profile 👋
 

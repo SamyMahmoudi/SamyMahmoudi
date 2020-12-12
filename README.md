@@ -1,12 +1,16 @@
 ### Welcome to my profile 👋
 
-#### Who Am I ?
-<p align="center">
 👨‍🎓 Student at IIM in Paris </br>
 🎓 Bachelor's degree in sciences (speciality IT)
-</p>
 
-#### Languages & Tools
+
+## Languages & Tools
+
+<p align="center">
+
+## Contact
+
+</p>
 
 <!--
 **SamyMahmoudi/SamyMahmoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

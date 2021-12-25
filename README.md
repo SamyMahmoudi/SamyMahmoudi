@@ -5,6 +5,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://samymahmoudi.fr)
 
 ## About Me
-📍 Paris, France
-💻 Passionate about web development
+📍 Paris, France <br>
+💻 Passionate about web development <br>
 🧑‍🎓 Student at IIM - Institute of the Internet and Multimedia

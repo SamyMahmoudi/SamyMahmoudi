@@ -1,38 +1,10 @@
-## Welcome to my profile 👋
+### Hi, I'm <a href="https://samymahmoudi.fr" target="_blank">Samy Mahmoudi</a>
 
-👨‍🎓 Student at IIM in Paris </br>
-🎓 Bachelor's degree in sciences (speciality IT)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samy-mahmoudi/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/s4my_dev/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://samymahmoudi.fr)
 
-
-
-## Languages & Tools
-<p>
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/vs.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/github.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/html.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/css.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/sass.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/gulp.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/JavaScript.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/vue.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/nuxt.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/php.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/mysql.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/WordpressLogo.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/adobeXD.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/photoshop.png?raw=true">&nbsp;&nbsp;
-</p>
-
-## Contact
-<p>
-<a href="https://github.com/SamyMahmoudi/"><img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/github.png?raw=true">&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/samy-mahmoudi/"><img height="30" src="https://github.com/SamyMahmoudi/SamyMahmoudi/blob/master/linkedin.png?raw=true">&nbsp;&nbsp;</a>
-</p>
-
-<details>
- <summary><strong>Bonus :</strong></summary>
- </br>
-   - ⚽ Sport <br/>
-   - 🎧 Music <br/>
-   - ✈ Travel <br/>
-</details>
+## About Me
+📍 Paris, France
+💻 Passionate about web development
+🧑‍🎓 Student at IIM - Institute of the Internet and Multimedia
